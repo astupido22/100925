@@ -16,7 +16,7 @@ body{
 }
 .site-header {
     background:linear-gradiant(90deg, #1e40af, #256232);
-    color: white;
+    color: rgb(192, 36, 36);
     padding: 24px 16px;
     text-align: center;
 }
